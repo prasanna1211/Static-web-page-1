@@ -6,16 +6,23 @@ body {
 
 .jumbotron {
   text-align: center;
+  background-image: url("../images/background.jpg");
 }
 
 ul.nav {
   font-family: 'Arvo', serif;
+  font-size: 13px;
 }
 
 .jumbotron h1 {
   font-family: 'Arvo', serif;
+  margin-top: 0px;
+  margin-bottom: 50px;
 }
 
+.jumbotron p {
+  margin-bottom: 30px;
+}
 .btn-lg {
   font-size: 36px;
 }
