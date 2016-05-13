@@ -3,3 +3,19 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+.jumbotron {
+  text-align: center;
+}
+
+ul.nav {
+  font-family: 'Arvo', serif;
+}
+
+.jumbotron h1 {
+  font-family: 'Arvo', serif;
+}
+
+.btn-lg {
+  font-size: 36px;
+}
