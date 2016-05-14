@@ -71,6 +71,16 @@ a.btn-default {
   background-color: #f5f5f5;
 }
 
+.navbar-header img {
+  padding-top: 15px;
+}
+
+footer {
+  background-color: #f74c3c;
+  padding-top: 150px;
+  padding-bottom: 30px;
+  padding-left: 300px;
+}
 
 
 
